@@ -1,0 +1,15 @@
+CREATE DATABASE CollegeDB;
+USB College DB;
+CREATE TABLE Department (
+  Student DO VARCHAR (5) PRIMARY KEY,
+  Student Name VARCH AR (10) NOT NULL,
+  DOB late NOT NULL, 
+  Gender VARCHAR (10) NOT NULL
+  );
+desc Department;
+ACTER TABLE student 
+ADD(
+   Email VARCHAR (30).
+   Phone Number NUMERIC (10)
+);
+desc Student;
